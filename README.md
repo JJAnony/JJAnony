@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ### Hello, I'am José Carlos Olivati  👋
 
 - 🏢 I'm currently working on Full Stack Angular and Java development
@@ -20,6 +24,12 @@
 </div><br/>
 
 ## Social media
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/junior-olivati" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+## My Works
  
 <div> 
   <a href="https://www.linkedin.com/in/junior-olivati" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

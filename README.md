@@ -1,4 +1,8 @@
-### Hello, I am José Carlos Olivati  👋
+### Hello, I'am José Carlos Olivati  👋
+
+- 🏢 I'm currently working on Full Stack Angular and Java development
+- 🌱 I'm always learning new languages and frameworks
+- 😄 Pronouns: him/his
 
 
 ![JJAnony GitHub stats](https://github-readme-stats.vercel.app/api?username=JJAnony&show_icons=true&theme=dark)

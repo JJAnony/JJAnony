@@ -1,4 +1,4 @@
-### Olá Eu sou ![JJAnony]  👋
+### Olá, Eu sou José Carlos Olivati  👋
 
 
 ![JJAnony GitHub stats](https://github-readme-stats.vercel.app/api?username=JJAnony&show_icons=true&theme=dark)

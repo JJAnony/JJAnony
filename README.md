@@ -1,10 +1,10 @@
-### Olá, Eu sou José Carlos Olivati  👋
+### Hello, I am José Carlos Olivati  👋
 
 
 ![JJAnony GitHub stats](https://github-readme-stats.vercel.app/api?username=JJAnony&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJAnony&layout=compact&theme=dark)
 
-## Tecnologias que uso no meu dia
+## Tecnologies
 
 <div style="display: inline_block">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -15,7 +15,7 @@
   <img align="center" alt="mac os" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </div><br/>
 
-##
+## Social media
  
 <div> 
   <a href="https://www.linkedin.com/in/junior-olivati" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![JJAnony GitHub stats](https://github-readme-stats.vercel.app/api?username=JJAnony)](https://github.com/JJAnony/github-readme-stats)
+![JJAnony GitHub stats](https://github-readme-stats.vercel.app/api?username=JJAnony&show_icons=true&theme=radical)
 
 <!--
 **JJAnony/JJAnony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,6 +2,10 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFsYmJ1djlzNWRuOWhydzZtbGc5Njh2aDh0cWN1dWMwbHJ1ZHRmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/3SL41WtN5l9DNdPJGs/giphy.gif" width="100"/>
 </div>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/junior-olivati" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 ### Hello, I'am José Carlos Olivati  👋
 
 - 🏢 I'm currently working on Full Stack Angular and Java development
@@ -22,15 +26,3 @@
   <img align="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img align="center" alt="mac os" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </div><br/>
-
-## Social media
- 
-<div> 
-  <a href="https://www.linkedin.com/in/junior-olivati" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-## My Works
- 
-<div> 
-  <a href="https://www.linkedin.com/in/junior-olivati" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>

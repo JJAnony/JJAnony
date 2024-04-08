@@ -6,6 +6,8 @@
   </h1>
 </div>
 
+### :woman_technologist: About Me :
+
 - 🏢 I'm currently working on Full Stack Angular and Java development
 - 🌱 I'm always learning new languages and frameworks
 - 😄 Pronouns: him/his
